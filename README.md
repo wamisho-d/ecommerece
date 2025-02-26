@@ -36,6 +36,7 @@ Advanced E-commerce API Features:
   - Document API with Swagger library
 
 Endpoints:
+
     Customers:
       - POST/customers
       - GET/customers/<customer_id>
